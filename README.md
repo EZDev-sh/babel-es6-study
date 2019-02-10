@@ -1,4 +1,4 @@
-# local ES6 환경 설정
+# local에 ES6 환경 설정
 ### ES6 ver6 다운로드
 <pre><code>npm install --save babel-cli</code></pre>
 ### ES6 ver7 다운로드
