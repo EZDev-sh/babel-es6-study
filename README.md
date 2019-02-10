@@ -2,7 +2,7 @@
 ### ES6 ver6 다운로드
 <pre><code>npm install --save babel-cli</code></pre>
 ### ES6 ver7 다운로드
-<pre><code>npm install --save @babel/cli @babel/core @babel/node</code></pre>
+<pre><code>npm install --save @babel/cli @babel/core @babel/node @bable/preset-env</code></pre>
 > '--save'의 경우 package.json의 "dependencies" 밑에 저장 시키기 위해사용해준다.
 ### npx 설치 방법
 <pre><code>npm install -g npx</code></pre>
